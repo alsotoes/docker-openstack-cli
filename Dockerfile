@@ -1,5 +1,6 @@
 FROM ubuntu:trusty
-MAINTAINER asoto@kionetworks.com
+MAINTAINER "ALVARO ANTONIO SOTO ESCOBAR"
+LABEL authors="asoto@kionetworks.com, alsotoes@gmail.com"
 
 RUN apt-get update
 RUN apt-get install -y python-ceilometerclient
