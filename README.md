@@ -3,7 +3,7 @@ OpenStack CLI tools
 
 1.- Clone the repo
 
-	$ https://github.com/alsotoes/docker-openstack-cli.git
+	$ git clone https://github.com/...
   
 2.- Build the image
 
