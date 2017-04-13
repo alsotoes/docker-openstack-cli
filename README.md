@@ -1,5 +1,5 @@
 # docker-openstack-cli
-OpenStack CLI tools
+OpenStack CLI tools: just a whale to have all the commands you will need to operate an OpenStack cloud, without messing your current environment.
 
 1.- Clone the repo
 
